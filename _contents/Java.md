@@ -39,5 +39,5 @@ tags: [Java]
 * []() - 
 
 ## Textbooks and Resources
-* [Java Tutor](http://pythontutor.com/java.html#mode=edit) - Visualize Java code execution and get live help.
+* [Java Tutor](http://pythontutor.com/java.html#mode=edit) - Visualize Java code execution and get live help
 
