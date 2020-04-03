@@ -43,6 +43,8 @@ Google Colab and Kaggle Notebooks are another set of interface options. Both hos
 
 [O'Reilly Data Science Handbook in Colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Full set of tutorial notebooks on everything Numpy, Pandas, Matplotlib, and Machine Learning. 
 
+[New Thiny to Add](www.url.com) - Describe what the thingy is.
+
 [Stackify: 30 Python Tutorials](https://stackify.com/learn-python-tutorials/) - Comprehensive list of Python tutorials, from the beginner to the advanced.
 
 [Hitchhikers Guide to Python](https://docs.python-guide.org/intro/learning/) - This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis. It also has an exhaustive list of resources for beginners to Python!
