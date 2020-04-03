@@ -113,6 +113,8 @@ Google Colab and Kaggle Notebooks are another set of interface options. Both hos
 
 [Udemy: Unsupervised Machine Learning Hidden Markov Models in Python](https://www.udemy.com/unsupervised-machine-learning-hidden-markov-models-in-python/) - Intro to HMM models for stock price analysis, language modeling, web analytics, biology, and PageRank. Also typically $12.
 
+[fast.ai - Making neural nets cool again](https://www.fast.ai/) - Introduction to deep learning, AI
+
 
 ## Geospatial Data Visualization and Analysis
 [Geopandas](http://geopandas.org/)
